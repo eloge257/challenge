@@ -1,0 +1,31 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "TREAT",
+    "owner": "PAOLO",
+    "description": "HIGH",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "PAOLO"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New generic diagram",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "voici la description"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "PAOLO",
+    "threatTop": 0
+  }
+}
